@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffadda66-dd9f-4e77-ac00-693eb264740f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/ieeta/dicoogle/plugin/sample/SamplePluginSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/ieeta/dicoogle/plugin/sample/SamplePluginSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/ieeta/dicoogle/plugin/sample/database/DatabaseInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/ieeta/dicoogle/plugin/sample/database/DatabaseInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/ieeta/dicoogle/plugin/sample/query/SampleQueryPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/ieeta/dicoogle/plugin/sample/query/SampleQueryPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/ieeta/dicoogle/plugin/sample/storage/SampleStoragePlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/ieeta/dicoogle/plugin/sample/storage/SampleStoragePlugin.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Tc5eVr67iA8ueCAXNUYziLaJfx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Remote" nameIsGenerated="true">
+      <module name="dicoogle-plugin-sample" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffadda66-dd9f-4e77-ac00-693eb264740f" name="Default Changelist" comment="" />
+      <created>1573746638282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573746638282</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
